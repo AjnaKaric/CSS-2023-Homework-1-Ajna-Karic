@@ -24,6 +24,14 @@ const questions = [
     d: "none of the above",
     correct: "b",
   },
+  {
+  question: "How many volunteers is there in CSS?",
+  a: "12",
+  b: "30",
+  c: "15",
+  d: "16",
+  correct: "c",
+  }
 ];
 
 //Fetching the HTML elements
